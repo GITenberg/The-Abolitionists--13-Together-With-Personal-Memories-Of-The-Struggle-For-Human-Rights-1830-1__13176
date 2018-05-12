@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '4880'
     url: http://www.gutenberg.org/2009/agents/4880
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13176#The-Abolitionists--13-Together-With-Personal-Memories-Of-The-Struggle-For-Human-Rights-1830-1_
 gutenberg_bookshelf: Slavery
 gutenberg_issued: '2004-08-13'
 gutenberg_type: Text
