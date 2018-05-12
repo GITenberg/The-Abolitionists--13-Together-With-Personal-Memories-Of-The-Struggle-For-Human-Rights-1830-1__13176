@@ -1,0 +1,31 @@
+_repo: The-Abolitionists--13-Together-With-Personal-Memories-Of-The-Struggle-For-Human-Rights-1830-1__13176
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hume, John F. (John Ferguson)
+    aliases:
+    - Hume, John Ferguson
+    - Niles, Willys
+    birthdate: 1830
+    gutenberg_agent_id: '4880'
+    url: http://www.gutenberg.org/2009/agents/4880
+description: ''
+gutenberg_bookshelf: Slavery
+gutenberg_issued: '2004-08-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13176'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E300'
+- !lcsh 'Abolitionists -- United States'
+- !lcsh 'Antislavery movements -- United States'
+title: "The Abolitionists\r\nTogether With Personal Memories Of The Struggle For Human\
+  \ Rights, 1830-1864"
+url: http://www.gutenberg.org/ebooks/13176
